@@ -1,7 +1,7 @@
 # English Shadowing App
 
 This app helps you practice English speaking by shadowing YouTube videos.
-
+[![demo](/assets/demo.png)]
 ## Features
 - Fetch transcripts from YouTube videos (English only).
 - Play video sentence by sentence.
